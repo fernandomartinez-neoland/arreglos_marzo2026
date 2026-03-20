@@ -1,12 +1,13 @@
-const arreglo=[]
-const lista_frutas=["pera", "manzan", "fresa"]
+const arreglo=[];
+const lista_frutas=["pera", "manzan", "fresa"];
 
 
 console.log(arreglo)
 console.log(lista_frutas)
 
 
-arreglo[0]="hola"
-arreglo[1]=5
+arreglo[0]="hola";
+arreglo[1]=5;
 
 console.log(arreglo)
+console.log(lista_frutas[2])
